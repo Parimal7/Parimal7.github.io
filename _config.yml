@@ -20,6 +20,7 @@ author: Parimal Prasoon
 ###############################################
 
 navbar-links:
+  Home: ""
   About Me: "aboutme"
   Resources: "resources"
   # Resources:
