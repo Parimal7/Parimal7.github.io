@@ -26,9 +26,9 @@ So this is a new challenge, last year students were allowed to use existing libr
 
 I tried to convert the data to a raw ppm file using binary values for each pixel, but that was giving me a greyish image. I asked about it on the IRC but got no help, so decided to use plain ppm format for each channel. This time, it worked and I got the following images as output -
 
-![Blue channel]({{ site.baseurl }}/images/2fe93d66-343b-418c-8002-64428fa6a59a.png "Blue Channel")
-![Red channel]({{ site.baseurl }}/images/69d0d024-a731-4262-ac0b-f7b3f669ea78.png "Red Channel")
-![Green channel]({{ site.baseurl }}/images/309f397c-09df-46c3-be9f-2e17c5885a99.png "Green Channel")
+![Blue channel]({{ site.baseurl }}/assets/img/2fe93d66-343b-418c-8002-64428fa6a59a.png "Blue Channel")
+![Red channel]({{ site.baseurl }}/assets/img/69d0d024-a731-4262-ac0b-f7b3f669ea78.png "Red Channel")
+![Green channel]({{ site.baseurl }}/assets/img/309f397c-09df-46c3-be9f-2e17c5885a99.png "Green Channel")
 
 This took me 5-6 hours, since most of the time went in trying to use the raw ppm format (which I STILL don’t understand). Anyway, this finished the second task. On to the third –
 
@@ -40,7 +40,7 @@ If you want a more comprehensive reading, read this [pdf](http://www.stark-labs.
 
 After debayering, the final image we get is –
 
-![Final image]({{ site.baseurl }}/images/screenshot-from-2019-02-26-12-36-44.png "Final image")
+![Final image]({{ site.baseurl }}/assets/img/screenshot-from-2019-02-26-12-36-44.png "Final image")
 
 That completes the first three tasks. There was an optional task which I might complete later this week.
 
