@@ -5,8 +5,7 @@ title: Resources
 
 ## Intro
 
-The following is a table of resources that I have used during various stages of my college and career.
-I try to keep it up to date whenever I find a new and helpful resource.
+Below is a table listing online resources utilized throughout my academic and professional journey, with periodic updates.
 
 ## Resource Table
 
@@ -23,3 +22,4 @@ I try to keep it up to date whenever I find a new and helpful resource.
 | [The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Video Playlist from MIT covering shell scripting, git version control, VIM and more |
 | [CS106B Programming Abstraction](https://www.youtube.com/playlist?list=PL-h0BZdG_K4kAmsfvAik-Za826pNbQd0d) | Video Playlist from Stanford for Data Structures and Algorithms in C++ |
 | [Finance Theory 1](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW) | Video Playlist from MIT covering present value relations, fixed income securties, equities, forward and future contracts and more. |
+| [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g) | Video Playlist from CMU on database systems, covering modern SQL, storage, compression, disk I/O, indexes and more.|
