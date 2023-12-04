@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preparating for GSOC 2019
+title: Preparaing for GSOC 2019
 ---
 
 Google Summer of Code proposal submissions start 25th March, and for this year I decided to try for Apertus Organisation. I picked Apertus because of the following two reasons:
